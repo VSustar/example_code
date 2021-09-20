@@ -1,5 +1,5 @@
 #Vid Sustar
-#Web scrapper for https://asuntojen.hintatiedot.fi/haku/
+#Web scrapper to gather data about sold appartments/houses in Finland from https://asuntojen.hintatiedot.fi/haku/
 #it creates a csv file containing all the information given for the specified locations of interest
 
 import time
